@@ -50,7 +50,7 @@ Failure to deploy project in time.
 
 ## Deployment
 
-I unfortunately was unable to deploy the site successfully
+I unfortunately was unable the deployed site is currently not working
 
 The orginal livelink was here https://ecommerce.herokuapp.com/
 
