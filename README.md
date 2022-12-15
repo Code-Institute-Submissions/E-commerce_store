@@ -41,6 +41,9 @@ They can access there cart.
 
 The cart has a icon above it showing the amount in it. 
 
+![ecom](https://user-images.githubusercontent.com/93283135/207774691-6a952220-dffa-4548-ba2b-0781f9ef602e.PNG)
+
+
 ### Unfixed Bugs
 
 Failure to deploy project in time. 
